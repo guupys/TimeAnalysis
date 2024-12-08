@@ -1,2 +1,2 @@
-# Time-Analysis
+# TimeAnalysis
 code for time series analysis
